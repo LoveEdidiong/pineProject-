@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+
+}
+
+
+.btn-success{
+    border-color: chartreuse !important;
+    background-color: chartreuse !important;
+
+    
+} 
+
+
+
+
+.form-control{
+    border-color: chartreuse !important;
+    box-shadow: none !important;
+}
+h1{
+    color: chartreuse !important;
+}
